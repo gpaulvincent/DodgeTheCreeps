@@ -1,0 +1,37 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1748451771
+Calmness.mp3::AudioStreamMP3::4608236289580914874::1748449440::1748451773::1::::<><>::
+export_presets.cfg::TextFile::-1::1748451708::0::1::::<><>::
+GTA V Death - Sound Effect.mp3::AudioStreamMP3::5987762346402602463::1748450113::1748451773::1::::<><>::
+hud.gd::GDScript::-1::1748451708::0::1::::<>CanvasLayer<>::
+hud.tscn::PackedScene::6515532506067610336::1748451708::0::1::::<><>::uid://cap437mo5aj6k::::res://fonts/Xolonium-Regular.ttf<>res://hud.gd
+icon.svg::CompressedTexture2D::1200636590550429703::1748451708::1748451722::1::::<><>::
+main.gd::GDScript::-1::1748451708::0::1::::<>Node<>::
+main.tscn::PackedScene::342437417163708225::1748451708::0::1::::<><>::uid://p4bva1skp1md::::res://player.tscn<>res://main.gd<>uid://xs4xxl3oulta::::res://mob.tscn<>uid://cy3f4r6kuxhrk::::res://hud.tscn<>uid://cybgg28y4h04i::::res://art/House In a Forest Loop.ogg<>uid://cfenw3kxgcbnx::::res://art/gameover.wav
+mob.gd::GDScript::-1::1748451708::0::1::::<>RigidBody2D<>::
+mob.tscn::PackedScene::1653305295619462770::1748451709::0::1::::<><>::uid://baoetcnklgudw::::res://art/enemyFlyingAlt_1.png<>res://mob.gd<>uid://bw6au4vshkdqy::::res://art/enemyFlyingAlt_2.png<>uid://bifdn5k06uw2j::::res://art/enemySwimming_1.png<>uid://dmsttmjbq07yn::::res://art/enemySwimming_2.png<>uid://b4c173jym3g1g::::res://art/enemyWalking_1.png<>uid://dgeerdj38uilp::::res://art/enemyWalking_2.png
+player.gd::GDScript::-1::1748451709::0::1::::<>Area2D<>::
+player.tscn::PackedScene::1112797869099724379::1748451709::0::1::::<><>::res://player.gd<>uid://c4gmils3evm1q::::res://art/playerGrey_up1.png<>uid://du08b3jqqovdf::::res://art/playerGrey_up2.png<>uid://85540k7j83ot::::res://art/playerGrey_walk1.png<>uid://ct6qvgvwwhmu1::::res://art/playerGrey_walk2.png
+::res://art/::1748451723
+enemyFlyingAlt_1.png::CompressedTexture2D::2415598895903667500::1748451708::1748451722::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::3994608226429400452::1748451708::1748451722::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::2958460280193394983::1748451708::1748451722::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::8039875171506802277::1748451708::1748451722::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::4427663177585682802::1748451708::1748451722::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::7588926023181562517::1748451708::1748451722::1::::<><>::
+gameover.wav::AudioStreamWAV::5132873192119436069::1748451708::1748451723::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6459814479411575822::1748451708::1748451722::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::6821447596519645084::1748451708::1748451722::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::8616655299552610031::1748451708::1748451722::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::2380037800482186103::1748451708::1748451722::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::6171434429051198730::1748451708::1748451722::1::::<><>::
+::res://export/::1748451708
+::res://fonts/::1748451722
+FONTLOG.txt::TextFile::-1::1748451708::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1748451708::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::4805619528677718380::1748451708::1748451722::1::::<><>::
+::res://godot-dodge-the-creeps-main/::1748451709
+README.md::TextFile::-1::1748451708::0::1::::<><>::
+::res://godot-dodge-the-creeps-main/screenshots/::1748451723
+Screenshot_1.jpg::CompressedTexture2D::5576578018031375894::1748451709::1748451723::1::::<><>::
+Screenshot_2.jpg::CompressedTexture2D::2769569841929978025::1748451709::1748451723::1::::<><>::
